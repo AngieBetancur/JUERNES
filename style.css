@@ -1,0 +1,29 @@
+#parrafo-uno{
+    font-family: cursive;
+    color: grey;
+    background-color: rgb(208, 218, 223);
+}
+h1{
+    font-family: cursive;
+    color: rgb(2, 34, 2);
+}
+h3{
+    color: rgb(65, 104, 6);
+}
+#encabezado-cuatro{
+    color: rgb(6, 187, 127);
+}
+.encabezado-cinco{
+    color: rgb(8, 166, 172);
+}
+.encabezado-seis{
+    color: rgb(12, 12, 128);
+    background-color: rgb(175, 243, 136);
+}
+body{
+background-image: url(https://static.vecteezy.com/system/resources/previews/005/630/179/non_2x/random-spring-seamless-pattern-with-green-and-white-contoured-branches-light-pastel-olive-background-vector.jpg);
+background-size: cover;
+}
+.jabon-avena{
+    color: rgb(114, 68, 11);
+}
